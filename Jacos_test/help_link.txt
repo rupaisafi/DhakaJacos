@@ -1,0 +1,14 @@
+I attached a zip file for assignment, please check it.
+
+Demo link:   https://puro-less-kaikei.dhaka02.dev.jacos.jp
+
+For report Press 2nd button of the top menu.
+Please use test_jacos.sql database
+
+Don't make any change of database. You just access the database & generate report like attached file.
+
+If you have live server then please put your file on server & send us a link with attached task files.
+If you do not have live server then send us task file.
+
+
+Any query, Just call me +88 01714481784  Skype: bellal-hossain
