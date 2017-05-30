@@ -9,5 +9,3 @@ var expect={
 	other_cost:{},
 }
 
-//--subjects group by category
-//--category group by subcategory
